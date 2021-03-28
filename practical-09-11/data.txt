@@ -1,0 +1,9 @@
+Josh	Ann	Paul	Long	Shane	Bella	Hana	Luke
+AK1547	125Ann890	paul4502	long25hn	west43Shane	bestrong284	4529itsHana	rocknrollL89
+28/05/1990	10/03/1995	08/07/1980	22/01/2001	25/10/1992	09/09/1977	05/06/1980	24/04/2000
+Teacher	Teacher	Pilot	Student	Engineer	Doctor	Dentist	Pianist
+58_London_St	26_Leon_St	05_Osway_St	10_Herms_St	36_Melbourne_St	58_Donn_St	09_Abery_St	29_Niel_St
+2		1	1	1	1	1	1	3
+28/05/2020	10/03/2017	08/07/2020	22/01/2015	25/10/2019	09/09/2014	05/06/2010	24/04/2016	04/02/2017	15/03/2018	19/09/2019
+Plaza_Centre	Domino_Pizza	Mobile_Store	Rundle_Mall	Costco	Transport	Kmart	Officeworks	Coles	Nike	Adidas
+1280	456	890	123	657	5666	3435	5667	56	789	100
