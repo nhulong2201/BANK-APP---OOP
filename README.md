@@ -1,12 +1,19 @@
 # BANK APP - OOP
 **Introduction:**
 My project implements a bank app for customers. It allows customers to 
+
 •	Login (name and password)
+
 •	View profile
+
 •	Track transactions (date, location, amount) 
+
 •	Set up savings plan with 2 options in terms of interest and calculate their loan period, monthly payment (all data such as interest, etc will be customers’ expectations)
+
 *All information is stored on a database, which is a file called data.txt
+
 *Use data.txt in case you want to run the app as it will ask for name and password.
+
 
 **CLASS DESCRIPTIONS**
 **Customer**
