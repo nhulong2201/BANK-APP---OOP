@@ -26,7 +26,7 @@ Customer has basic information (name, address, dob, job, password) and transacti
 
 Bank has its own name, address, a list of customers and necessary functionalities (like calculating savings and loan). Methods allow adding customers and getting the customers list. They also calculate savings and loan which help customers setting up their plans.
 
-**Plan savings **
+**Plan savings**
 
 It is an abstract class with the initial amount of money a, interest r, period n. If customers want to put money into savings, they will use it to calculate interest, total money, etc. Set_values(a,r,n) allows users to input needed value to calculate their inquiries.
 
